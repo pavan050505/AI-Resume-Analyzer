@@ -46,7 +46,6 @@ https://github.com/user-attachments/assets/2f6f578b-8d9e-44cb-8e52-563945a17529
 Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/pavan050505/AI-Resume-Analyzer.git
 cd AI-Resume-Analyzer
 
@@ -136,3 +135,4 @@ If you want:
 - short LinkedIn description
 
 Just tell me 🚀
+
